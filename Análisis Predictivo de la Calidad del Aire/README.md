@@ -44,7 +44,7 @@ Este proyecto es un caso práctico completo donde se analiza la **calidad del ai
 
 Una animación en formato GIF que compara predicciones vs valores reales del modelo Random Forest:
 
-![Animación de predicciones](random_forest_predictions_fast.gif)
+![Animación de predicciones](random_forest_predictions.gif)
 
 ---
 
