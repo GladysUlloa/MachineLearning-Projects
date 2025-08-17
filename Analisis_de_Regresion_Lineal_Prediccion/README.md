@@ -1,41 +1,85 @@
-# 📈 Análisis de Regresión Lineal para Predicción
+# 📈 Análisis de Regresión Lineal para Predicción de Valores de Viviendas en California
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
 
-Este proyecto aplica **modelos de Regresión Lineal** para predecir [tu variable objetivo, por ejemplo: ventas, precios, temperaturas].  
-Incluye análisis exploratorio, limpieza y preprocesamiento de datos, construcción y evaluación del modelo.
+**Autora:** Gladys Choque Ulloa
 
 ---
 
-## 🎯 Objetivo
+## Introducción
 
-Construir un modelo de regresión lineal que permita predecir [tu variable objetivo] a partir de variables explicativas, evaluando su rendimiento y capacidad de generalización.
+Este notebook presenta un análisis completo de **Regresión Lineal** aplicado al conjunto de datos de viviendas en California.  
+El objetivo principal es construir un modelo que prediga el **valor mediano de las viviendas** (`median_house_value`) a partir de distintas características demográficas y geográficas.
 
----
+A lo largo del análisis se realiza:
 
-## 🛠 Metodología
+- Carga y exploración inicial de datos (**EDA**).  
+- Preprocesamiento, incluyendo tratamiento de valores faltantes y codificación de variables categóricas.  
+- División en conjuntos de entrenamiento y prueba.  
+- Entrenamiento y evaluación de un modelo de regresión lineal simple.  
+- Interpretación de los coeficientes para entender la influencia de cada variable.  
+- Visualización dinámica de los resultados mediante animaciones para facilitar la comprensión.
 
-1. **Carga y exploración de datos**  
-   - Revisión de datasets y detección de valores faltantes o inconsistencias.  
-
-2. **Limpieza y preprocesamiento**  
-   - Eliminación o imputación de valores faltantes.  
-   - Transformación de variables si es necesario.  
-   - División en conjunto de entrenamiento y prueba.
-
-3. **Análisis Exploratorio de Datos (EDA)**  
-   - Visualización de relaciones entre variables.  
-   - Identificación de correlaciones importantes.
-
-4. **Entrenamiento del modelo de Regresión Lineal**  
-   - Ajuste del modelo con datos de entrenamiento.  
-   - Evaluación de supuestos del modelo (linealidad, homocedasticidad, normalidad de residuos).
-
-5. **Evaluación del modelo**  
-   - Métricas: MAE, MSE, RMSE, R²  
-   - Comparación de predicciones vs valores reales.
+Este trabajo ha sido desarrollado por Gladys Choque Ulloa con el objetivo de **compartir buenas prácticas en análisis y modelado de datos reales**, integrando visualizaciones avanzadas y técnicas robustas de preprocesamiento.
 
 ---
 
-## 📁 Estructura de Carpetas
+📌 **Objetivos del Análisis**
+
+- Explorar las características del dataset de viviendas en California.  
+- Analizar correlaciones entre variables numéricas y categóricas. 
+- Construir un modelo de **Regresión Lineal** para predecir el valor medio de las viviendas.
+- Evaluar el desempeño del modelo con métricas como RMSE y R².
+- Visualizar los resultados mediante gráficos estáticos y animaciones GIF comparando valores reales vs. predicciones.
+
+---
+
+🗃️ **Datos utilizados**
+
+- Carpeta: `data/`  
+- Fuente original: [California Housing Dataset - sklearn.datasets](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)  
+- Variables clave: `median_house_value`, `median_income`, `housing_median_age`, `total_rooms`, `total_bedrooms`, `population`, `households`, `latitude`, `longitude`.
+
+---
+
+🛠️ **Tecnologías y librerías**
+
+- Python 3.x  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Jupyter Notebook
+- Matplotlib.animation
+
+---
+
+🧪 **Archivo principal**
+
+📓 Notebook:  
+`notebooks/Analisis_RegresionLineal_Viviendas_California.ipynb`
+
+---
+
+🎞️ **Animación generada**  
+Una animación en formato GIF que compara **predicciones vs valores reales**, mostrando el ajuste del modelo y la línea ideal (`y=x`) para facilitar la interpretación visual.  
+
+---
+
+💬 **Notas adicionales**
+
+- Proyecto ideal para quienes aprenden análisis de datos, predicción y visualización avanzada.  
+- Desarrollado con enfoque didáctico, incluyendo comentarios y explicaciones paso a paso.
+
+---
+
+⚖️ **Licencia**
+
+Este proyecto se publica bajo la **licencia MIT**.  
+Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+📚 **Desarrollado por Gladys Choque Ulloa | Ciencia de Datos & Estadística Aplicada**  
+🔗 Sígueme en mis Redes Sociales: [linktr.ee/gladyschoqueulloa](https://linktr.ee/gladyschoqueulloa)
+
 
