@@ -56,12 +56,13 @@ Este trabajo ha sido desarrollado por Gladys Choque Ulloa con el objetivo de **c
 🧪 **Archivo principal**
 
 📓 Notebook:  
-`notebooks/Analisis_RegresionLineal_Viviendas_California.ipynb`
+[`CASO_APLICADO_Análisis_de_Calidad_del_Aire.ipynb`](/Análisis_de_Regresión_Lineal_para_Predicción.ipynb)
 
 ---
 
 🎞️ **Animación generada**  
 Una animación en formato GIF que compara **predicciones vs valores reales**, mostrando el ajuste del modelo y la línea ideal (`y=x`) para facilitar la interpretación visual.  
+![Animación de predicciones](random_forest_predictions.gif)
 
 ---
 
