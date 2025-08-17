@@ -55,15 +55,15 @@ Este trabajo ha sido desarrollado por Gladys Choque Ulloa con el objetivo de **c
 
 🧪 **Archivo principal**
 
-📓 Notebook:  
-- [`Analisis_de_Regresion_Lineal_para_Prediccion.ipynb`](Analisis_de_Regresion_Lineal_Prediccion/Analisis_de_Regresion_Lineal_para_Prediccion.ipynb)
-
+📓 Notebook:
+- [`CASO_APLICADO_Analisis_de_Regresion_Lineal_para_Prediccion.ipynb`](Analisis_de_Regresion_Lineal_Prediccion/Analisis_de_Regresion_Lineal_para_Prediccion.ipynb)
+  
 ---
 
 🎞️ **Animación generada**  
 Una animación en formato GIF que compara **predicciones vs valores reales**, mostrando el ajuste del modelo y la línea ideal (`y=x`) para facilitar la interpretación visual.  
 
-![Animación de predicciones](valores reales_vs_predicciones.gif)
+![Animación de predicciones](Analisis_de_Regresion_Lineal_Prediccion/valores_reales_vs_predicciones.gif)
 
 ---
 
