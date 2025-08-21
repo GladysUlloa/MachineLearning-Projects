@@ -56,7 +56,7 @@ Este trabajo ha sido desarrollado por Gladys Choque Ulloa con el objetivo de **c
 🧪 **Archivo principal**
 
 📓 Notebook:
-- [`CASO_APLICADO_Analisis_de_Regresion_Lineal_para_Prediccion.ipynb`](Analisis_de_Regresion_Lineal_Prediccion/Analisis_de_Regresion_Lineal_para_Prediccion.ipynb)
+- [`CASO_APLICADO_Analisis_de_Regresion_Lineal_para_Prediccion.ipynb`](https://github.com/GladysUlloa/MachineLearning-Projects/blob/1fd3e78560a469e676a6476d320af547a329cc35/Analisis_de_Regresion_Lineal_Prediccion/Analisis_de_Regresion_Lineal_para_Prediccion.ipynb)
   
 ---
 
