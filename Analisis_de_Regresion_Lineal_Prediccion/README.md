@@ -63,7 +63,7 @@ Este trabajo ha sido desarrollado por Gladys Choque Ulloa con el objetivo de **c
 🎞️ **Animación generada**  
 Una animación en formato GIF que compara **predicciones vs valores reales**, mostrando el ajuste del modelo y la línea ideal (`y=x`) para facilitar la interpretación visual.  
 
-![Animación de predicciones](Analisis_de_Regresion_Lineal_Prediccion/valores_reales_vs_predicciones.gif)
+![Animación de predicciones]([Analisis_de_Regresion_Lineal_Prediccion/valores_reales_vs_predicciones.gif](https://github.com/GladysUlloa/MachineLearning-Projects/blob/2218a218d64c7c34ad06a1639a28ea9b799b0587/Analisis_de_Regresion_Lineal_Prediccion/valores%20reales_vs_predicciones.gif))
 
 ---
 
