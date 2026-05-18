@@ -1,9 +1,11 @@
-# 📱 XGBoost Aplicado: Predicción de Precio de Smartphones
+# XGBoost Aplicado: Predicción de Precio de Smartphones
 
 ![XGBoost](https://img.shields.io/badge/Algorithm-XGBoost-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Field-Machine_Learning-blue?style=for-the-badge)
 
+**Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
+---
 Este repositorio contiene un caso práctico avanzado donde se aplica el algoritmo **XGBoost (Extreme Gradient Boosting)** para predecir el precio de lanzamiento de smartphones basándose en sus especificaciones técnicas. 
 
 El proyecto conecta la implementación técnica con los fundamentos matemáticos del algoritmo, como la **Aproximación de Taylor de segundo orden** y la **Regularización L1/L2**.
