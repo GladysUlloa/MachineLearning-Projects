@@ -1,11 +1,13 @@
-# 📊 Segmentación de Clientes con Gaussian Mixture Models (GMM)  
+# Segmentación de Clientes con Gaussian Mixture Models (GMM)  
 **Python · Scikit-Learn · Clustering Probabilístico**
 
-**Autora: Doctoral Student Gladys Choque Ulloa**
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
+
+**Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
 
 ---
 
-## 🧠 Introducción  
+## Introducción  
 Este proyecto presenta un análisis completo de **segmentación de clientes en e-commerce** utilizando **Gaussian Mixture Models (GMM)**, un enfoque probabilístico avanzado para clustering.
 
 El objetivo principal es identificar **patrones de comportamiento de compra** y descubrir segmentos de clientes a partir de sus transacciones.
@@ -24,7 +26,7 @@ Este trabajo ha sido desarrollado con el objetivo de aplicar técnicas avanzadas
 
 ---
 
-## 📌 Objetivos del Análisis  
+## Objetivos del Análisis  
 
 - Identificar segmentos de clientes basados en comportamiento de compra.  
 - Aplicar modelos de clustering probabilístico (GMM).  
@@ -33,17 +35,17 @@ Este trabajo ha sido desarrollado con el objetivo de aplicar técnicas avanzadas
 
 ---
 
-## 🗃️ Datos utilizados  
+## Datos utilizados  
 
 - Carpeta: `data/`  
 - Fuente: Kaggle  
 
-🔗 Dataset:  
+Dataset:  
 https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce
 
 ---
 
-## 🛠️ Tecnologías y librerías  
+## Tecnologías y librerías  
 
 - Python 3.x  
 - Pandas  
@@ -54,7 +56,7 @@ https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-cl
 - Jupyter Notebook  
 ---
 
-## 📈 Metodología  
+## Metodología  
 
 1. **Preprocesamiento de datos**  
    - Limpieza  
@@ -79,7 +81,7 @@ https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-cl
 
 ---
 
-## 🎯 Resultados  
+## Resultados  
 
 - Identificación de segmentos de clientes diferenciados.  
 - Modelado flexible frente a métodos como K-Means.  
@@ -90,7 +92,7 @@ https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-cl
 
 ---
 
-## 💡 Notas adicionales  
+## Notas adicionales  
 
 - Proyecto ideal para aprendizaje de clustering probabilístico.  
 - Enfoque aplicado y explicativo.  
@@ -98,14 +100,14 @@ https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-cl
 
 ---
 
-## ⚖️ Licencia  
+## Licencia  
 
 Este proyecto está bajo la licencia MIT.  
 Consulta el archivo `LICENSE` para más información.
 
 ---
 
-## 👩‍💻 Autora  
+## Contactos  
 
 **Doctoral Student Gladys Choque Ulloa**  
 Ciencia de Datos · Estadística · Machine Learning  
