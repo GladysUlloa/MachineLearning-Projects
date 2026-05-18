@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Field-Machine_Learning-blue?style=for-the-badge)
 
-## **Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
+### **Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
 ---
 Este repositorio contiene un caso práctico avanzado donde se aplica el algoritmo **XGBoost (Extreme Gradient Boosting)** para predecir el precio de lanzamiento de smartphones basándose en sus especificaciones técnicas. 
 
