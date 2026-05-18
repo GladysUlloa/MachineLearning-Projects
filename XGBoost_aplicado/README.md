@@ -8,7 +8,7 @@
 
 **Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
 
-**Tema:** Estadística aplicada · Ciencia de Datos · Machine Learning · Inferencia estadística
+**Tema:** Redes Neuronales · Ciencia de Datos · Machine Learning · Inferencia estadística
 
 ---
 Este repositorio contiene un caso práctico avanzado donde se aplica el algoritmo **XGBoost (Extreme Gradient Boosting)** para predecir el precio de lanzamiento de smartphones basándose en sus especificaciones técnicas. 
