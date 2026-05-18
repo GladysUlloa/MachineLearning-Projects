@@ -4,7 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Field-Machine_Learning-blue?style=for-the-badge)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
+
 **Autora:** PhD(c). Gladys Choque Ulloa in Computer Science
+
+**Tema:** Estadística aplicada · Ciencia de Datos · Machine Learning · Inferencia estadística
+
 ---
 Este repositorio contiene un caso práctico avanzado donde se aplica el algoritmo **XGBoost (Extreme Gradient Boosting)** para predecir el precio de lanzamiento de smartphones basándose en sus especificaciones técnicas. 
 
