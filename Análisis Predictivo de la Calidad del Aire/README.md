@@ -1,10 +1,10 @@
-# 📊 Análisis Predictivo de la Calidad del Aire en la India (2015-2020) usando Estadística y Machine Learning 
+# Análisis Predictivo de la Calidad del Aire en la India (2015-2020) usando Estadística y Machine Learning 
 
 Este proyecto es un caso práctico completo donde se analiza la **calidad del aire en ciudades de India** utilizando técnicas estadísticas y algoritmos de **Machine Learning**, aplicado en Python. Se trabaja con una base de datos real y se incluyen visualizaciones, estimaciones y un modelo predictivo robusto.
 
 ---
 
-## 📌 Objetivos del Análisis
+## Objetivos del Análisis
 
 - Explorar los niveles de contaminación (PM2.5) en diferentes ciudades.
 - Aplicar **Estimación por Máxima Verosimilitud (MLE)** a la distribución de PM2.5.
@@ -14,7 +14,7 @@ Este proyecto es un caso práctico completo donde se analiza la **calidad del ai
 
 ---
 
-## 🗃️ Datos utilizados
+## Datos utilizados
 
 - **Archivo:** `air-quality-data.zip`
 - **Fuente original:** [India Air Quality Data - Kaggle](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
@@ -22,7 +22,7 @@ Este proyecto es un caso práctico completo donde se analiza la **calidad del ai
 
 ---
 
-## 🛠️ Tecnologías y librerías
+## Tecnologías y librerías
 
 - Python
 - Pandas, NumPy
@@ -33,14 +33,14 @@ Este proyecto es un caso práctico completo donde se analiza la **calidad del ai
 
 ---
 
-## 🧪 Archivo principal
+## Archivo principal
 
-📓 **Notebook:**  
+**Notebook:**  
 [`CASO_APLICADO_Análisis_de_Calidad_del_Aire.ipynb`](CASO_APLICADO_Análisis_de_Calidad_del_Aire.ipynb)
 
 ---
 
-## 🎞️ Animación generada
+## Animación generada
 
 Una animación en formato GIF que compara predicciones vs valores reales del modelo Random Forest:
 
@@ -48,13 +48,13 @@ Una animación en formato GIF que compara predicciones vs valores reales del mod
 
 ---
 
-## 💬 Notas adicionales
+## Notas adicionales
 
 Este análisis fue desarrollado en Google Colab como parte de un portafolio personal de Ciencia de Datos. Incluye descripciones paso a paso y justificaciones estadísticas, ideal para quienes están aprendiendo o quieren ver ejemplos reales.
 
 ---
 
-## ⚖️ Licencia
+## Licencia
 
 Este proyecto se publica bajo la **Licencia MIT**.  
 Consulta el archivo [LICENSE](LICENSE) para más detalles.
