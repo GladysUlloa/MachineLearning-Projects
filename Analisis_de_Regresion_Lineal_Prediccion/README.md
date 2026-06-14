@@ -1,4 +1,4 @@
-# 📈 Análisis de Regresión Lineal para Predicción de Valores de Viviendas en California
+# Análisis de Regresión Lineal para Predicción de Valores de Viviendas en California
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green?logo=scikitlearn) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-orange)
 
